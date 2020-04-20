@@ -5,7 +5,7 @@
 
 <p align="center">
     <img alt="Made by LeandroCosta" src="https://img.shields.io/badge/Made%20by-Leandro%20Costa-brightgreen">
-    <img alt="Used languages" src="https://img.shields.io/github/languages/count/leealvescosta/gostack-react">
+    <img alt="Used languages" src="https://img.shields.io/github/languages/count/leealvescosta/gostack-fundamentos-nodejs">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 <blockquote><p align="center">“A vida necessita pequenos <strong>começos</strong>”</blockquote>
